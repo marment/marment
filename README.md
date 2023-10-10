@@ -11,9 +11,9 @@
 
 
 <h2>Welcome to Coffee land</h2>
-I am a Project manager and a Software Engineer currently enrolled in the third year of Mathematics and Computer Sciences at the Faculty of Science in Agadir.
+I am a driven Software Engineer and a dedicated Computer Science currently enrolled in the 2nd year of my Master of Science of Master in Computer Science and Modeling of Complex Systems at the HASSAN I University, Faculty of Science and Technology of Settat.
 
-Since my childhood, I have always believed in the importance of entrepreneurship in helping our country to become the main player in the world stage of the modern economy. Therefore, I have always sought to challenge myself and become one of the main leaders impacting our society and inspiring people in different ways.
+I’ve honed my skills during a valuable internship at Cloud Art, mastering cloud computing, automation, and version control. I’ve demonstrated dedication to both technical and non-technical aspects of technology. My solid educational foundation in computer science, coupled with a track record of community engagement, positions me to have a significant impact in the tech industry.
 
 
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="JAVA" src="https://img.shields.io/badge/java-%23F05033.svg?style=for-the-badge&logo=java&logoColor=white"/> 
